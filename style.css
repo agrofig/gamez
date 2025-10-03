@@ -1,0 +1,6 @@
+.nav-button.red {
+  background-color: #dc3545;
+}
+.nav-button.red:hover {
+  background-color: #a71d2a;
+}
